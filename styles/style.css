@@ -1,0 +1,38 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    background-color: #93B5C9;
+    height: 170px;
+    width: 100%;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    height: 100%;
+    width: 100%;
+    justify-content: left;
+}
+
+div{
+    background-color: #AB2849;
+    height: 250px;
+    width: 100%;
+    margin: 0 0 20px 0;
+}
+
+section {
+    background-color: #AB2849;
+    height: 150px;
+    width: 80%;
+    margin: 0 0 20px 0;
+}
+
+footer {
+    background-color: #AB2849;
+    height: 100px;
+    margin: 0 2.5% 10px 2.5%;
+}
